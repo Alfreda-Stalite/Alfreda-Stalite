@@ -1,8 +1,7 @@
 - 👋 Hi, I’m MacDumogah Alfreda.
 - 👀 I’m interested in Graphic designing
-- 🌱 I’m currently learning KNUST.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a Computer Science student at KNUST.
+
 
 <!---
 Alfreda-Stalite/Alfreda-Stalite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
